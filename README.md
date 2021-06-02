@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
-**ankit0812-hue/ankit0812-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hola I'm Ankit 👋
+I am Ankit Das, a sophomore pursuing Integrated MTech in Software Engineering. I spend most of my time coding and gaming. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
